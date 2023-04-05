@@ -18,17 +18,17 @@ parameters:
 	-output.eQe_test: Specify the file name of the results of DQ test.
 
 #===============================================
-# The input phenotype file : phenotype_0.txt and phenotype_1.txt
+ The input phenotype file : phenotype_0.txt and phenotype_1.txt
 #===============================================
 
 #===============================================
-# The input genotype file : genotype_0.txt and genotype_1.txt
+ The input genotype file : genotype_0.txt and genotype_1.txt
 #===============================================
 
 #===============================================
-# The output IQI file : IQI_0.txt and IQI_1.txt
+ The output IQI file : IQI_0.txt and IQI_1.txt
 #===============================================
 
 #===============================================
-# The output result of DQ test file : DQ_test_result.txt
+ The output result of DQ test file : DQ_test_result.txt
 #===============================================
